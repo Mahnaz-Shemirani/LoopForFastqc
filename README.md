@@ -1,5 +1,6 @@
 # LoopForFastqc
 
+,,,
 For file in /DIRECTORY OF SOURCE/*.FASTQ.GZ
 
 do
@@ -8,7 +9,7 @@ fastqc -f fastq -o /PATH TO OUTPUT FOLDER/ -t 4 ${file}
 
 done
 
-
+,,,
 
 #example in uppmax
 
