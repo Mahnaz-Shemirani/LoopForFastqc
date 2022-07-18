@@ -1,13 +1,13 @@
 # LoopForFastqc
 
 
-  For file in /DIRECTORY OF SOURCE/*.FASTQ.GZ
+      For file in /DIRECTORY OF SOURCE/*.FASTQ.GZ
 
-  do
+      do
 
-  fastqc -f fastq -o /PATH TO OUTPUT FOLDER/ -t 4 ${file}
+      fastqc -f fastq -o /PATH TO OUTPUT FOLDER/ -t 4 ${file}
 
-  done
+      done
 
 
 
