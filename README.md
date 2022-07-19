@@ -11,7 +11,7 @@
 
 
 
-#example in uppmax
+#example in uppmax for WGS bacterial data
 
       for file in /domus/h1/mahnaz/downloads/*.fastq.gz    #It will choose every file with .fastq.gz suffix in the mentioned directory
 
