@@ -1,4 +1,4 @@
-# LoopForFastqc
+# LoopForFastqc SLURM/UPPMAX environment
 
 
       For file in /DIRECTORY OF SOURCE/*.FASTQ.GZ
