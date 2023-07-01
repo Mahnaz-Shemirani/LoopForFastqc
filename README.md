@@ -1,4 +1,4 @@
-# LoopForFastqc SLURM/UPPMAX environment
+# LoopForFastqc SLURM/UPPMAX environment paper https://doi.org/10.1186/s12879-022-07977-0
 
 
       For file in /DIRECTORY OF SOURCE/*.FASTQ.GZ
